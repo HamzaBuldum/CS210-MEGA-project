@@ -18,7 +18,7 @@ This project explores and analyzes charging and driving behaviors using TeslaMat
 - **Visualization**: Matplotlib, Seaborn, and Plotly for interactive charts.
 - **Statistical Analysis**: Hypothesis testing, regression, and correlation analysis.
 - **API Integration**: Tesla API for vehicle data, Open-Meteo API for weather conditions.
-- **Cloud Infrastructure**: Google Cloud Platform (GCP) for hosting TeslaMate and processing datasets efficiently.
+- **Cloud Infrastructure**: Google Cloud Platform (GCP) for hosting TeslaMate and processing datasets efficiently and Grafana to get the data and visualise.
 
 ## Dataset
 
